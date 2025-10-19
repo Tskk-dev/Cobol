@@ -1,0 +1,43 @@
+# COBOL compiled executables
+*.exe
+
+# COBOL compiler output files
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# GnuCOBOL specific
+*.c.h
+*.c.l.h
+*.c
+
+# Debug files
+*.pdb
+*.ilk
+
+# Listing files
+*.lst
+*.lis
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# IDE and editor files
+.vscode/
+.vs/
+*.suo
+*.user
+*.swp
+*.swo
+
+# OS generated files
+.github
+.DS_Store
+Thumbs.db
+desktop.ini
