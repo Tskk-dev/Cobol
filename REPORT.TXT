@@ -1,0 +1,22 @@
+               POLYTECHNIC UNIVERSITY OF THE PHILIPPINES
+                         Sta. Mesa, Manila
+                            STUDENTS REPORT
+
+          STUDENT             STUDENT                  AVERAGE
+          NUMBER              NAME                     GRADE
+
+          001                 James                    1.50
+          002                 MJ                       1.00
+          Department Name:    Information Technology
+          Total Passed:          2
+          Total Failed:          0
+          Total Students:        2
+
+          003                 RC                       3.00
+          004                 MARK                     4.00
+          Department Name:    Computer Science
+          Total Passed:          1
+          Total Failed:          1
+          Total Students:        2
+
+          Overall Total Number of Students:          4
